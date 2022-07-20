@@ -1,4 +1,4 @@
----
+--network
 id: reindex-indexables
 title: WP CLI - Reindex Indexables command
 sidebar_label: Reindex Indexables
